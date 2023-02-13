@@ -6,15 +6,15 @@
 
 ### - Авторизация
 
-<img width="80%" src="./assets/auth.gif" alt="" />
+<img width="80%" src="./auth.gif" alt="" />
 
 ### - Выбор тренера.
 
-<img width="80%" src="./assets/reserve.gif" alt="" />
+<img width="80%" src="./reserve.gif" alt="" />
 
 ### - Что есть в зале.
 
-<img width="80%" src="./assets/info.gif" alt="" />
+<img width="80%" src="./info.gif" alt="" />
 
 ### - Просмотр адреса
 
